@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Михаил Грозов](https://up.htmlacademy.ru/adaptive/25/user/588913).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Боровик](https://htmlacademy.ru/profile/mouxez).
 
 ---
 
